@@ -89,6 +89,14 @@
   </div>
 </details>
 
+<details markdown="1">
+  <summary>8일차 퀘스트: 요구사항, 학습목표, 키워드를 보고 본인이 작성한 체크포인트와 AI에 요구사항, 학습목표, 키워드를 입력해서 만들어주는 체크포인트와 비교해보기</summary>
+  <div>
+    <img src="./week1_image/J183_AI_result_day08.png" />
+    <img src="./week1_image/J183_AI_feedback_day08.png" />
+  </div>
+</details>
+
 ---
 ## J196 - 이승지
 
