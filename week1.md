@@ -102,7 +102,22 @@
 
 ---
 ## S039 - 최현우
+<details>
+<summary>8일차 체크포인트 2번</summary>
+<div markdown="1">
 
+### ChatGPT 가 답변한 체크포인트
+<img width="500" height="682" alt="답변1" src="https://github.com/user-attachments/assets/4ec6b1ec-335b-4564-8072-a5e23c522968" />
+<img width="500" height="545" alt="답변2" src="https://github.com/user-attachments/assets/3291e764-1ce8-4b3b-bc7d-0453778b8b40" />
+
+### 내 체크포인트
+<img width="728" height="859" alt="내체크포인트" src="https://github.com/user-attachments/assets/4920f314-57c6-4ce9-a263-c8c0c18ee5de" />
+
+
+
+
+</div>
+</details>
 
 
 
