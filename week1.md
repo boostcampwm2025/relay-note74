@@ -102,7 +102,7 @@
 
 <details markdown="1">
   <summary>8일차 퀘스트 2번</summary>
-
+    <div>
 **프롬프트**
 [요청 배경]
 - 학습 목표에 있는 키워드에서 핵심을 자주 빠뜨린다.  
@@ -139,9 +139,10 @@
 ...
 
 **AI 답변**
-![image.png](attachment:f31373f2-4922-4d20-a66e-d1ea928f412b:image.png)
-![image.png](attachment:a6734e6f-21ca-4a54-8b18-088327ce85b2:image.png)
+<img src="./week1_image/J196_1.png" />
+<img src="./week1_image/J196_2.png" />
 
+    <div>
 </details>
 
 ---
